@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.rp.org/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rp.org/Patient Patient.xsd ">
+  <tns:id>1</tns:id>
+  <tns:name>Ravina</tns:name>
+  <tns:age>19</tns:age>
+  <tns:dob>2001-01-01</tns:dob>
+  <tns:email>rp@email.com</tns:email>
+  <tns:gender>female</tns:gender>
+  <tns:phone>123789852</tns:phone>
+</tns:patient>
